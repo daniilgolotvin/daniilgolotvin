@@ -1,4 +1,5 @@
-![Header](https://tenor.com/ru/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149)
- About me
- Languges and tools
- Contact
+![Header](https://github.com/daniilgolotvin/daniilgolotvin/blob/master/assets/MyLogo.png?raw=true)
+ ## 🖐Hello, world. My name is Daniil and I am an beginner web developer.
+ ## 🛠Technologies and tools
+ 
+ ## Contact
