@@ -1,4 +1,5 @@
 ![Header](https://github.com/daniilgolotvin/daniilgolotvin/blob/main/assets/MyLogo.png?raw=true)
+![](https://komarev.com/ghpvc/?username=daniilgolotvin)
  #### 🖐 Hello, world. My name is Daniil and I am an beginner web developer. I am a student of MISIS in the city of Vyksa at the Faculty of Information Technologies in Management and study on courses from YandexPracticum in the direction of web development.
 
  ### 🛠 Technologies and tools
