@@ -3,7 +3,7 @@
  #### 🖐 Hello, world. My name is Daniil and I am an beginner web developer. I am a student of MISIS in the city of Vyksa at the Faculty of Information Technologies in Management and study on courses from YandexPracticum in the direction of web development.
 
  ### 🛠 Technologies and tools
- ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D) ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=264de4) ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=#F16528) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=#7952b3) ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=#3178c6) ![BEM](https://img.shields.io/badge/-BEM-090909?style=for-the-badge&logo=BEM&logoColor=#fff)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D) ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=264de4) ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=#F16528) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=#7952b3) ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=#3178c6) ![BEM](https://img.shields.io/badge/-BEM-090909?style=for-the-badge&logo=BEM&logoColor=#fff) ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=#fff)
  
 
 ### ☎️ Contact
